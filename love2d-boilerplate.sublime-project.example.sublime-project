@@ -1,0 +1,16 @@
+{
+    "folders":
+    [
+        {
+            "path": "/Users/sixFingers/Repositories/love2d-boilerplate"
+        }
+    ],
+    "build_systems":
+    [
+        {
+            "name": "love2ddd",
+            "shell_cmd": "love .",
+            "working_dir": "${project_path}",
+        }
+    ]
+}
