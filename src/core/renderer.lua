@@ -21,7 +21,6 @@ function Renderer.draw(scene, camera)
 
     local function switchShader(shader)
         Lovegl.setShader(shader)
-        -- L3D.update_shader(shader)
 
         shader:send("u_projection", projection_matrix:to_vec4s())
         shader:send("u_view", camera:getTransform():to_vec4s())
