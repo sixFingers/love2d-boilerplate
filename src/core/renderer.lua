@@ -8,7 +8,7 @@ function Renderer.debugMode(mode)
     debugMode = mode
 end
 
-function Renderer.draw(scene, camera)
+function Renderer.draw(models, camera)
     if debugMode then
         gl.PolygonMode(GL.FRONT_AND_BACK, GL.LINE)
     else
@@ -28,7 +28,7 @@ function Renderer.draw(scene, camera)
         currentShader = shader
     end
 
-    for model in pairs(scene.models) do
+    for model in pairs(models) do
         if (model.shader ~= currentShader) then
             switchShader(model.shader)
         end
