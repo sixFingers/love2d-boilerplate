@@ -1,0 +1,1079 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scre",
+				"screenWidth	Default"
+			],
+			[
+				"segmn",
+				"segment_width	Default"
+			],
+			[
+				"ha",
+				"half_depth	Default"
+			],
+			[
+				"half_",
+				"half_width	Default"
+			],
+			[
+				"def",
+				"definition	Default"
+			],
+			[
+				"ve",
+				"vec3	Default"
+			],
+			[
+				"scree",
+				"screenHeight	Default"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"defaul",
+				"default_options"
+			],
+			[
+				"sign_re",
+				"sign_request_with_token"
+			],
+			[
+				"body",
+				"body_create"
+			],
+			[
+				"encode",
+				"encode64"
+			],
+			[
+				"header",
+				"headers_value"
+			],
+			[
+				"Date",
+				"DateTime"
+			],
+			[
+				"target",
+				"target_feed"
+			],
+			[
+				"Acti",
+				"Activity"
+			],
+			[
+				"f",
+				"full_url"
+			],
+			[
+				"do",
+				"doc	doc"
+			],
+			[
+				"http",
+				"httpoison"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"high",
+				"highlights"
+			],
+			[
+				"valid",
+				"valid_working_dir"
+			],
+			[
+				"vers",
+				"verse_template"
+			],
+			[
+				"stra",
+				"strand1"
+			],
+			[
+				"uniq",
+				"uniques"
+			],
+			[
+				"externa",
+				"externalHull	Default"
+			],
+			[
+				"MAIN",
+				"MAIN_CAMERA:detach	Default"
+			],
+			[
+				"left",
+				"leftMost	Default"
+			],
+			[
+				"dist",
+				"distance"
+			],
+			[
+				"texture",
+				"texturecolor"
+			],
+			[
+				"current",
+				"currentStartPoint"
+			],
+			[
+				"grid",
+				"gridSize	Default"
+			],
+			[
+				"gri",
+				"gridSize	Default"
+			],
+			[
+				"MAINC",
+				"MAIN_CAMERA:mousePosition	Default"
+			],
+			[
+				"ligt",
+				"lightPoly	Default"
+			],
+			[
+				"po",
+				"love.graphics.point"
+			],
+			[
+				"fnc",
+				"function	function"
+			],
+			[
+				"inter",
+				"intersection	Default"
+			],
+			[
+				"curren",
+				"currentCell	Default"
+			],
+			[
+				"vert",
+				"vertices	Default"
+			],
+			[
+				"poly",
+				"love.graphics.polygon"
+			],
+			[
+				"getPosit",
+				"love.mouse.getPosition"
+			],
+			[
+				"vol",
+				"volumeTris	Default"
+			],
+			[
+				"volu",
+				"volume	Default"
+			],
+			[
+				"pint",
+				"print	(...)"
+			],
+			[
+				"ver",
+				"vertices	Default"
+			],
+			[
+				"interna",
+				"internalHull"
+			],
+			[
+				"sha",
+				"shadowCount	Default"
+			],
+			[
+				"nei",
+				"neighbor	Default"
+			],
+			[
+				"neig",
+				"neighbors	Default"
+			],
+			[
+				"shadow",
+				"shadowOffset	Default"
+			],
+			[
+				"wea",
+				"weaponName	Default"
+			],
+			[
+				"weapn",
+				"weapon	Default"
+			],
+			[
+				"pla",
+				"Player	Default"
+			],
+			[
+				"curre",
+				"currentTool	Default"
+			],
+			[
+				"curret",
+				"currentRect	Default"
+			],
+			[
+				"curr",
+				"currentTool	Default"
+			],
+			[
+				"getPo",
+				"love.mouse.getPosition"
+			],
+			[
+				"maxJu",
+				"maxJumpControlTime"
+			],
+			[
+				"rotate",
+				"rotateViewField	Default"
+			],
+			[
+				"ranom",
+				"randomseed"
+			],
+			[
+				"update",
+				"updateViewField	Default"
+			],
+			[
+				"sort",
+				"sortClockWise	Default"
+			],
+			[
+				"view",
+				"viewRadius	Default"
+			],
+			[
+				"vie",
+				"viewAngle	Default"
+			],
+			[
+				"surfac",
+				"surfaces	Default"
+			],
+			[
+				"ke",
+				"love.keyboard.isDown"
+			],
+			[
+				"interse",
+				"intersections"
+			],
+			[
+				"inte",
+				"intersects	Default"
+			],
+			[
+				"intes",
+				"intersections	Default"
+			],
+			[
+				"inters",
+				"intersections	Default"
+			],
+			[
+				"intere",
+				"intersections	Default"
+			],
+			[
+				"entit",
+				"entity	Default"
+			],
+			[
+				"isOn",
+				"isOnSlope	Default"
+			],
+			[
+				"isO",
+				"isOnGround	Default"
+			],
+			[
+				"enti",
+				"entity	Default"
+			],
+			[
+				"walk",
+				"walkableSurface	Default"
+			],
+			[
+				"colli",
+				"collider	Default"
+			],
+			[
+				"ju",
+				"jumpControl	Default"
+			],
+			[
+				"max",
+				"maxJumpHeight	Default"
+			],
+			[
+				"gro",
+				"groundFriction	Default"
+			],
+			[
+				"key",
+				"keyboardInput	Default"
+			],
+			[
+				"jump",
+				"jumpHeight	Default"
+			],
+			[
+				"jum",
+				"jumpHeight	Default"
+			],
+			[
+				"gra",
+				"gravity	Default"
+			],
+			[
+				"dead",
+				"deadZone	Default"
+			],
+			[
+				"other",
+				"other:bbox	Default"
+			],
+			[
+				"fall",
+				"fallingSkip	Default"
+			],
+			[
+				"sect",
+				"sectionKind	Default"
+			],
+			[
+				"sub",
+				"subElements	Default"
+			],
+			[
+				"eleem",
+				"elements	Default"
+			],
+			[
+				"e",
+				"element	Default"
+			],
+			[
+				"allo",
+				"allowedTags	Default"
+			],
+			[
+				"eleme",
+				"elements	Default"
+			],
+			[
+				"al",
+				"allowedKinds	Default"
+			],
+			[
+				"allow",
+				"allowedAttributes	Default"
+			],
+			[
+				"cur",
+				"currentDocument	Default"
+			],
+			[
+				"triger",
+				"triggers	Default"
+			],
+			[
+				"curs",
+				"cursorLength	Default"
+			],
+			[
+				"is",
+				"isOnGround	Default"
+			],
+			[
+				"sepe",
+				"separating_vector	Default"
+			],
+			[
+				"spe",
+				"separating_vector	Default"
+			],
+			[
+				"apply",
+				"applyFrictions	Default"
+			],
+			[
+				"tex",
+				"texture	Default"
+			],
+			[
+				"brand",
+				"brandMap	Default"
+			],
+			[
+				"las",
+				"lastNames	Default"
+			],
+			[
+				"aven",
+				"avenueMap	Default"
+			],
+			[
+				"avenue",
+				"avenueNames	Default"
+			],
+			[
+				"avenu",
+				"avenueCount	Default"
+			],
+			[
+				"ave",
+				"avenues	Default"
+			],
+			[
+				"char",
+				"charMap	Default"
+			],
+			[
+				"graphi",
+				"love.graphics.getWidth"
+			],
+			[
+				"ci",
+				"cityMapOver	Default"
+			],
+			[
+				"pmax",
+				"pmaxx	Default"
+			],
+			[
+				"pma",
+				"pmaxy	Default"
+			],
+			[
+				"path",
+				"patchSize	Default"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"pmin",
+				"pminy	Default"
+			],
+			[
+				"patch",
+				"patchSize	Default"
+			],
+			[
+				"tile",
+				"tileSize	Default"
+			],
+			[
+				"hei",
+				"heightInTiles	Default"
+			],
+			[
+				"he",
+				"heightInTiles	Default"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"attr",
+				"attributes	List<String>"
+			],
+			[
+				"diffe",
+				"differenceAttrs	List<String>"
+			],
+			[
+				"prop",
+				"props"
+			],
+			[
+				"pro",
+				"props	var"
+			],
+			[
+				"lis",
+				"List<T>	class"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 37.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Glu",
+				"Glue - Launch"
+			],
+			[
+				"syneli",
+				"Set Syntax: Elixir"
+			],
+			[
+				"fm",
+				"phpfmt: format now"
+			],
+			[
+				"php",
+				"phpfmt: toggle format on save"
+			],
+			[
+				"phpfm",
+				"phpfmt: toggle PSR2"
+			],
+			[
+				"C9",
+				"Set Syntax: C99"
+			],
+			[
+				"PAck",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Lorem",
+				"Add some Lorem Gibson"
+			],
+			[
+				"PACK",
+				"Package Control: Install Package"
+			],
+			[
+				"Comme",
+				"Snippet: Comment - Block style comment"
+			]
+		],
+		"width": 556.0
+	},
+	"console":
+	{
+		"height": 442.0,
+		"history":
+		[
+			"exit",
+			"ls",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sixFingers/Repositories/isogame/src/helpers.lua",
+		"/Users/sixFingers/Repositories/isogame/src/core/renderer.lua",
+		"/Users/sixFingers/Repositories/isogame/src/node/model.lua",
+		"/Users/sixFingers/Repositories/isogame/src/data/room.lua",
+		"/Users/sixFingers/Repositories/isogame/src/states/camera.lua",
+		"/Users/sixFingers/Repositories/isogame/src/core/scene.lua",
+		"/Users/sixFingers/Repositories/isogame/src/data/vocabulary.lua",
+		"/Users/sixFingers/Repositories/isogame/main.lua",
+		"/Users/sixFingers/Repositories/isogame/lib/cpml/modules/octree.lua",
+		"/Users/sixFingers/Repositories/isogame/src/states/cube.lua",
+		"/Users/sixFingers/Repositories/isogame/src/node/node.lua",
+		"/Users/sixFingers/Repositories/isogame/src/node/camera.lua",
+		"/Users/sixFingers/Repositories/isogame/src/shaders/default.glsl",
+		"/Users/sixFingers/Repositories/isogame/src/core/init.lua",
+		"/Users/sixFingers/Repositories/isogame/src/nodes/node.lua",
+		"/Users/sixFingers/Repositories/isogame/src/nodes/camera.lua",
+		"/Users/sixFingers/Repositories/isogame/lib/cpml/modules/mat4.lua",
+		"/Users/sixFingers/Repositories/rogue/src/objects/body.lua",
+		"/Users/sixFingers/Repositories/rogue/src/objects/enemy.lua",
+		"/Users/sixFingers/Repositories/isogame/src/shaders/default_vertex.glsl",
+		"/Users/sixFingers/Repositories/isogame/src/shaders/default_fragment.glsl",
+		"/Users/sixFingers/Repositories/isogame/conf.lua",
+		"/Users/sixFingers/Repositories/isogame/src/nodes/init.lua",
+		"/Users/sixFingers/Repositories/isogame/src/geom/plane.lua",
+		"/Users/sixFingers/Repositories/isogame/src/camera.lua",
+		"/Users/sixFingers/Repositories/isogame/src/states/plane.lua",
+		"/Users/sixFingers/Repositories/isogame/src/geom/init.lua",
+		"/Users/sixFingers/Repositories/isogame/src/geometry/init.lua",
+		"/Users/sixFingers/Repositories/isogame/src/geometry/plane.lua",
+		"/Users/sixFingers/Repositories/isogame/lib/love3d/init.lua",
+		"/Users/sixFingers/Repositories/isogame/src/states/triangle.lua",
+		"/Users/sixFingers/Repositories/isogame/lib/cpml/modules/quat.lua",
+		"/Users/sixFingers/Repositories/isogame/src/states/dev.lua",
+		"/Users/sixFingers/Downloads/illusionary/main.lua",
+		"/Users/sixFingers/Downloads/illusionary/game.lua",
+		"/Users/sixFingers/Repositories/rogue/conf.lua",
+		"/Users/sixFingers/Downloads/illusionary/conf.lua",
+		"/Users/sixFingers/Repositories/streamex/README.md",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/feed.ex",
+		"/Users/sixFingers/Repositories/streamex/config/test.exs",
+		"/Users/sixFingers/Repositories/streamex/test/feed_test.exs",
+		"/Users/sixFingers/Repositories/streamex/fixture/vcr_cassettes/feed_post_follow.json",
+		"/Users/sixFingers/Repositories/streamex/fixture/vcr_cassettes/feed_get_followers.json",
+		"/Users/sixFingers/Repositories/streamex/test/activities_test.exs",
+		"/Users/sixFingers/Repositories/streamex/config/config.exs",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/activities.ex",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/helpers.ex",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/config.ex",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/request.ex",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/token.ex",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/follow.ex",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/activity.ex",
+		"/Users/sixFingers/Repositories/streamex/test/follow_test.exs",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/client.ex",
+		"/Users/sixFingers/Repositories/follow-the-money/server/src/server.js",
+		"/Users/sixFingers/Repositories/follow-the-money/client/src/client.js",
+		"/Users/sixFingers/Repositories/follow-the-money/client/build/client.js",
+		"/Users/sixFingers/Repositories/follow-the-money/index.html",
+		"/Users/sixFingers/Repositories/follow-the-money/package.json",
+		"/Users/sixFingers/Repositories/follow-the-money/follow-the-money.sublime-project",
+		"/Users/sixFingers/Repositories/follow-the-money/client/src/info.js",
+		"/Users/sixFingers/Repositories/follow-the-money/client/src/main.js",
+		"/Users/sixFingers/Repositories/follow-the-money/client/build/app.js",
+		"/Users/sixFingers/Repositories/follow-the-money/client/assets/js/main.js",
+		"/Users/sixFingers/Repositories/ActionSquad/action-squad.sublime-project",
+		"/Users/sixFingers/Repositories/streamex/fixture/vcr_cassettes/activities_get_activities.json",
+		"/Users/sixFingers/Repositories/streamex/test/client_test.exs",
+		"/Users/sixFingers/Repositories/streamex/test/config_test.exs",
+		"/Users/sixFingers/Repositories/streamex/test/streamex_test.exs",
+		"/Users/sixFingers/Repositories/streamex/coveralls.json",
+		"/Users/sixFingers/Repositories/streamex/.travis.yml",
+		"/Users/sixFingers/Repositories/streamex/mix.exs",
+		"/Users/sixFingers/Repositories/streamex/.gitignore",
+		"/Users/sixFingers/Repositories/streamex/test/activity_test.exs",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex.ex",
+		"/Users/sixFingers/Repositories/streamex/SNIPPETS",
+		"/Users/sixFingers/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/_layouts/default.html",
+		"/Users/sixFingers/Repositories/streamex/README",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/feed/activity.ex",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/feed/following.ex",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/followers/followers.ex",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/feed/follower.ex",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/followers.ex",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/browser_client.ex",
+		"/Users/sixFingers/Repositories/streamex/lib/streamex/server_client.ex",
+		"/Users/sixFingers/Repositories/skewtest/main.lua",
+		"/Users/sixFingers/Repositories/skewtest/assets/library.json",
+		"/Users/sixFingers/Repositories/skewtest/lump.lua",
+		"/Users/sixFingers/Repositories/lump/demo/lump.lua",
+		"/Users/sixFingers/Repositories/streamex/LICENSE",
+		"/Users/sixFingers/Repositories/lump/lump.lua",
+		"/Users/sixFingers/Repositories/lump/demo/main.lua",
+		"/Users/sixFingers/Repositories/lump/.gitignore",
+		"/Users/sixFingers/Repositories/lump/demo/lib/lump.lua",
+		"/Users/sixFingers/Repositories/lump/lib/movieclip.lua",
+		"/Users/sixFingers/Repositories/lump/demo/lib/animation.lua",
+		"/Users/sixFingers/Repositories/lump/lib/animation.lua",
+		"/Users/sixFingers/Repositories/issues/test/cli_test.exs",
+		"/Users/sixFingers/Repositories/issues/lib/issues/cli.ex",
+		"/Users/sixFingers/Repositories/issues/lib/issues/github_issues.ex",
+		"/Users/sixFingers/Repositories/issues/mix.exs",
+		"/Users/sixFingers/Repositories/issues/config/test.exs",
+		"/Users/sixFingers/Repositories/issues/config/config.exs",
+		"/Users/sixFingers/Repositories/issues/config/dev.exs",
+		"/Users/sixFingers/Repositories/issues/test/issues_test.exs",
+		"/Users/sixFingers/Repositories/lump/animation.lua",
+		"/Users/sixFingers/Repositories/lump/movieclip.lua",
+		"/Users/sixFingers/Repositories/rogue/main.lua",
+		"/Users/sixFingers/Repositories/lump/demo/conf.lua",
+		"/Users/sixFingers/Repositories/rogue/src/objects/player.lua",
+		"/Users/sixFingers/Repositories/lump/demo/lib/movieclip.lua",
+		"/Users/sixFingers/Repositories/rogue/src/animation.lua",
+		"/Users/sixFingers/Repositories/rogue/src/movieclip.lua",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/_data/works.yml",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/_data/languages.yml",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/_data/interests.yml",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/_data/references.yml",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/_includes/header.html",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/css/main.scss",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/_data/profiles.yml",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/_data/skills.yml",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/_data/awards.yml",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/_data/about.yml",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/_data/education.yml",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/_data/publications.yml",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/_data/volunteering.yml",
+		"/Users/sixFingers/Repositories/sixfingers.github.io/_includes/footer.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			"/Users/sixFingers/Repositories/streamex/lib/streamex",
+			"/Users/sixFingers/Repositories/rogue/libs/hc",
+			"/Users/sixFingers/Repositories/rogue/src",
+			"/Users/sixFingers/Repositories/ActionSquad",
+			"/Users/sixFingers/Repositories/platformer/src",
+			"/Users/sixFingers/Repositories/platformer/Src",
+			"/Users/sixFingers/Repositories/shooter/libs/hc",
+			"/Users/sixFingers/Repositories/Comic/excessive/love3d",
+			"/Users/sixFingers/Repositories/Comic/excessive/cpml/modules",
+			"/Users/sixFingers/Repositories/ActionSquad/states",
+			"/Users/sixFingers/Repositories/ActionSquad",
+			"/Users/sixFingers/Go/src/lost",
+			"/Users/sixFingers/Go/src/lost/core",
+			"/Users/sixFingers/Go/src/lost",
+			"/Users/sixFingers/Repositories/meteonetwork",
+			"/Users/sixFingers/Repositories/themoodpost",
+			"/Users/sixFingers/Go/src/goviewer"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"_active_shader",
+			"LINE",
+			"line",
+			"Line",
+			"Begin",
+			"GL_L",
+			"line",
+			"{",
+			"}",
+			"GL_",
+			"Draw",
+			"draw",
+			"2",
+			"l",
+			"draw_bounds",
+			"debug",
+			"draw_bounds",
+			"min",
+			"new_bound",
+			"bounds",
+			"OctreeNode",
+			"aabb_aabb",
+			"draw_boun",
+			"cache",
+			"iqm",
+			"octr",
+			"delta",
+			"forward",
+			"ratio",
+			"self.currentZoom",
+			"1",
+			"forward",
+			"50",
+			"5",
+			"1",
+			"...",
+			"helpers",
+			"meshes",
+			"renderer",
+			"x",
+			"_up",
+			"camera",
+			"phi",
+			"dist",
+			"theta",
+			"phi",
+			".y",
+			"screenWidth",
+			"self.",
+			"self",
+			"---",
+			"var ",
+			";",
+			"this",
+			"Node",
+			"Camera",
+			"0",
+			"Camera",
+			"geometry",
+			"Cpml.quat",
+			"Cpml.vec3",
+			" - 1",
+			"-",
+			" - translation",
+			"Vec3",
+			"quad_",
+			" - quad_translation",
+			"subdivisions",
+			"quad_size",
+			"translate",
+			" + translate",
+			"update_ma",
+			"1",
+			"width",
+			"setDepth",
+			"shader",
+			"new_shader",
+			"shader",
+			"setSha",
+			"combine",
+			"update",
+			"update_shader",
+			"patch",
+			"love.graphics",
+			"update_shader",
+			"setDe",
+			"update_shader",
+			"love.graphics",
+			"x",
+			"scale",
+			"0",
+			"x",
+			"function quaternion.",
+			"unit()",
+			"rotate",
+			"on quaternion.",
+			"from_",
+			"rotate",
+			"0",
+			":rotate",
+			"to_",
+			"vec3",
+			"vec",
+			"from_",
+			"from",
+			"rotate",
+			"1",
+			"self.w",
+			"quat",
+			"on:",
+			"rotate",
+			"to_axis_angle",
+			"1",
+			"50",
+			"perspe",
+			"10 ",
+			"y",
+			"x",
+			"y",
+			"x",
+			"update_matrix",
+			"5",
+			"30",
+			"send",
+			"_active_shader",
+			"update_shader",
+			"shader",
+			"l3d.origin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"[2]",
+			"[1]",
+			"self.world",
+			"self.cx",
+			"self.viewArea",
+			"input",
+			"\"",
+			"\", \"",
+			", ",
+			"self.heightInTiles",
+			"self.widthInTiles",
+			"object",
+			"Object",
+			"object",
+			"Object",
+			"place",
+			"Place",
+			"place",
+			"Place",
+			"HC.polygon",
+			":rotate",
+			"velocitySystem",
+			"mazeStateButton",
+			"River",
+			"\"",
+			"voronoiGraph",
+			"BiomeType",
+			"iceLevel",
+			"\"",
+			"cullGenerator",
+			"\"",
+			"units",
+			".fixture:setUserData",
+			":setUserData",
+			"a ",
+			"a.",
+			"a :=",
+			"AnimatedSprite",
+			"t ",
+			"t :=",
+			"t.",
+			"TextBox",
+			"package core",
+			"package drawable",
+			"RNG",
+			"",
+			"self.ajax",
+			"'",
+			"$this->",
+			"$isBPopular",
+			"$isBJunk",
+			"isJunk",
+			"$indices",
+			"', '",
+			"'",
+			"public",
+			"email",
+			"'",
+			"",
+			"BABYLON",
+			"    ",
+			"gl.",
+			"github.com/go-gl/glfw/v3.1/glfw"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 295.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 311.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/love2d.sublime-build",
+	"project": "love2d-boilerplate.sublime-project.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"play",
+				"src/states/play.lua"
+			],
+			[
+				"gra",
+				"src/graph.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

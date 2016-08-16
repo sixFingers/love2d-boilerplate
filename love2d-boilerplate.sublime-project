@@ -8,7 +8,7 @@
     "build_systems":
     [
         {
-            "name": "love2ddd",
+            "name": "Love2D",
             "shell_cmd": "love .",
             "working_dir": "${project_path}",
         }
